@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 23px;
+}
+#start, #no_of_objects, #status
+{
+    font-size: 20px;
+}
+.footer
+{
+    background-color: grey;
+    font-size: 23px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    line-height: 2;
+}
+canvas
+{
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid black;
+    margin-top: 85px;
+}
+#note
+{
+    font-size: 15px;
+    color: black;
+}
+#label
+{
+    font-size: 15px;
+    color: white;
+}
+#input
+{
+    width: 30%;
+}
